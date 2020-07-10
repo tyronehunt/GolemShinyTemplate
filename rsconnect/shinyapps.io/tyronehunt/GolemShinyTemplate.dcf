@@ -1,0 +1,12 @@
+name: GolemShinyTemplate
+title: GolemShinyTemplate
+username:
+account: tyronehunt
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2533394
+bundleId: 3376623
+url: https://tyronehunt.shinyapps.io/GolemShinyTemplate/
+when: 1594392757.29317
+asMultiple: FALSE
+asStatic: FALSE
